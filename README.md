@@ -35,4 +35,4 @@
 - 정기모임 기능(정모등록, 수정, 취소, 참여 등) 구현
 - 채팅 기능(채팅생성, 채팅방, 실시간대화 등) 구현
 
-[담당 기능 시연 및 설명](EveryFit담당기능.pdf)
+[담당 기능 시연 및 설명](https://github.com/user7198548/Portfolio/files/14631285/EveryFit.pdf)
