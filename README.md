@@ -1,5 +1,5 @@
 
-# Soeun's Porfolio
+# Soeun's Portfolio
 <h5>"문제를 해결하는 즐거움으로 성장하는 박소은입니다"</h5>
 <br>
 
@@ -35,4 +35,4 @@
 - 정기모임 기능(정모등록, 수정, 취소, 참여 등) 구현
 - 채팅 기능(채팅생성, 채팅방, 실시간대화 등) 구현
 
-[담당 기능 시연 및 설명](https://github.com/user7198548/Portfolio/files/14033248/EveryFit.pdf)
+[담당 기능 시연 및 설명](EveryFit담당기능.pdf)
